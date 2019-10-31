@@ -1,4 +1,4 @@
-from room import Room
+from room import Room #this is the file room.py
 
 # Declare all the rooms
 
